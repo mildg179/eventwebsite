@@ -1,0 +1,299 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+}
+
+body{
+  font-family:  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zo-mM4MwWJXNqA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lobster:400");
+* {
+  box-sizing: border-box;
+}
+.lobster-normal-black-48px {
+  color: black;
+  font-family: "Lobster", Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+.lobster-normal-pink-flamingo-30px {
+  color: var(--pink-flamingo);
+  font-family: "Lobster", Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.lobster-normal-white-30px {
+  color: white;
+  font-family: "Lobster", Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.macbook-pro-5 {
+  align-items: center;
+  background-color: var(--mauve);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fd540cc77243e317410c36b/releases/5fd5419704977547b3a4a3f5/img/macbook-pro---1@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  justify-content: flex-start;
+  overflow: hidden;
+  width: 1440px;
+}
+.macbook-pro-5 .about-271 {
+  background-color: transparent;
+  height: 37px;
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 154px;
+}
+.macbook-pro-5 .auto-flex-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 60px;
+  justify-content: flex-start;
+  margin-left: 1px;
+  margin-top: 27px;
+  min-width: 1237px;
+  width: auto;
+}
+.macbook-pro-5 .auto-flex1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 73px;
+  justify-content: flex-start;
+  margin-left: 1px;
+  margin-top: 41px;
+  min-width: 1143px;
+  width: auto;
+}
+.macbook-pro-5 .auto-flex2-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 368px;
+  justify-content: flex-start;
+  margin-right: 1px;
+  margin-top: 7px;
+  min-width: 1141px;
+  width: auto;
+}
+.macbook-pro-5 .brunch-menu-272 {
+  background-color: transparent;
+  height: 37px;
+  left: 36px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 154px;
+}
+.macbook-pro-5 .contact-275 {
+  background-color: transparent;
+  height: 37px;
+  left: 37px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 154px;
+}
+.macbook-pro-5 .district-d-brunch-263 {
+  background-color: transparent;
+  height: 73px;
+  left: 208px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 1027px;
+}
+.macbook-pro-5 .drag1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 368px;
+  width: 368px;
+}
+.macbook-pro-5 .eats-424 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 73px;
+  letter-spacing: 0px;
+  margin-left: 17px;
+  min-height: 73px;
+  text-align: center;
+  width: 369px;
+}
+.macbook-pro-5 .gallery-274 {
+  background-color: transparent;
+  height: 37px;
+  left: 38px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 154px;
+}
+.macbook-pro-5 .line-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 0px;
+  margin-left: 2px;
+  margin-top: 10px;
+  width: 1440px;
+}
+.macbook-pro-5 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 97px;
+  position: relative;
+  width: 1440px;
+}
+.macbook-pro-5 .overlap-group1-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+  width: 225px;
+}
+.macbook-pro-5 .overlap-group2-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 60px;
+  margin-left: 28px;
+  position: relative;
+  width: 225px;
+}
+.macbook-pro-5 .overlap-group3-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 60px;
+  margin-left: 28px;
+  position: relative;
+  width: 225px;
+}
+.macbook-pro-5 .overlap-group4-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 60px;
+  margin-left: 28px;
+  position: relative;
+  width: 225px;
+}
+.macbook-pro-5 .overlap-group5-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 60px;
+  margin-left: 28px;
+  position: relative;
+  width: 225px;
+}
+.macbook-pro-5 .p3-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 367px;
+  margin-left: 20px;
+  width: 367px;
+}
+.macbook-pro-5 .queens-423 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 73px;
+  letter-spacing: 0px;
+  min-height: 73px;
+  text-align: center;
+  width: 369px;
+}
+.macbook-pro-5 .rectangle- {
+  background-color: white;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+.macbook-pro-5 .rectangle-1 {
+  background-color: white;
+  height: 97px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.macbook-pro-5 .rectangle-5 {
+  background-color: var(--pink-flamingo);
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+.macbook-pro-5 .reservations-273 {
+  background-color: transparent;
+  height: 37px;
+  left: 37px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 154px;
+}
+.macbook-pro-5 .toast {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 367px;
+  margin-left: 24px;
+  width: 362px;
+}
+.macbook-pro-5 .vibes-425 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 73px;
+  letter-spacing: 0px;
+  margin-left: 19px;
+  min-height: 73px;
+  text-align: center;
+  width: 369px;
+}
+:root {
+  --mauve: rgba(227, 167, 255, 1);
+  --pink-flamingo: rgba(251, 82, 255, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
